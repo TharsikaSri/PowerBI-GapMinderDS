@@ -31,7 +31,7 @@ The scatter plot below provides information Europe's GDP per capita again the Li
 ![image](https://github.com/TharsikaSri/PowerBI-GapMinderDS/assets/150933187/791ed15c-5390-476c-80b5-29c67d1ab4a4)
 
 Please view the GapMinder dashboard below:
-![image](https://github.com/TharsikaSri/PowerBI-GapMinderDS/assets/150933187/7d5aa469-70e1-4bd2-b1fb-163052eb0623)
+![image](https://github.com/TharsikaSri/PowerBI-GapMinderDS/assets/150933187/31dd2672-2bff-4ab1-a1c7-600d3e4a42cc)
 
 If you like this, please give it a ⭐ star.
 
