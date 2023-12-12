@@ -3,7 +3,7 @@
 <div align="center"> <h3 align="center"> 🎯 Goals 🎯 </h3> </div>
 The goal of the GapMinder project is to clean the data using tools and techniques within PowerBI. Using the cleaned data, create dashboards to find trends and patterns. 
 
-<div align="center"> <h3 align="center"> 🔢 Dataset 🔢 </h3> </div>
+<div align="center"> <h3 align="center"> 🔢 Dataset 🔢 </h3> </div> 
 The dataset used is called "Dataset- gap-minder.csv". It consists of 1 table with data on the country name, population, life expectancy, regison, the longitude and latitude and more.
 
 <div align="center"> <h3 align="center"> 📂 Repository Sections 📂 </h3> </div> 
